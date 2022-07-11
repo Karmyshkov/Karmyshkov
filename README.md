@@ -4,8 +4,6 @@
 
 ### Hi👋, I'm [Evgeny!](https://github.com/Karmyshkov/)
 
-
-
 #### A little more about me...
 
 ```javascript
