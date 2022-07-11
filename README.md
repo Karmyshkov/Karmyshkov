@@ -1,4 +1,7 @@
-![](https://github.com/Karmyshkov/Karmyshkov/blob/main/readme.svg)
+<h1 align="center">
+  <img src="https://github.com/Karmyshkov/Karmyshkov/blob/main/readme.svg" alt="Karmyshkov" />
+</h1>
+
 ### Hi there 👋
 
 <!--
