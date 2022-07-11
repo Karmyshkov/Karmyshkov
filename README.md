@@ -4,7 +4,7 @@
 
 ### Hi👋, I'm [Evgeny!](https://github.com/Karmyshkov/)
 
-[Write to me!](https://t.me/karmishkov)
+[![Telegram](https://github.com/Karmyshkov/Karmyshkov/blob/main/telegram.svg)](https://t.me/karmishkov)
 
 #### A little more about me...
 
