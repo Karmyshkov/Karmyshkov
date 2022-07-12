@@ -19,7 +19,7 @@ const karmyshkov = {
     backEnd: {
       js: ["Node", "Express", "Mongoose"],
     },
-    devOps: ["Яндекс Облако", "Nginx", "Heroku", "Netlify", "Bash scripts"],
+    devOps: ["Yandex Cloud", "Nginx", "Heroku", "Netlify", "Bash scripts"],
     databases: ["MongoDB", "MySQL"],
     misc: ["Git", "Figma", "Photoshop"],
   }
